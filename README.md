@@ -5,7 +5,7 @@ Repository for task 1
 - Total revenue generated was ₦1.25M
 - Total customers recorded were 1181
 - Chairs were the highest revenue-generating product category.
-- Instagram was the most effective referral source.
+- Email was the most effective referral source.
 - 309 records contained missing coupon code values.
 - Returned and cancelled orders indicate opportunities for process improvement.
 
