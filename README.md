@@ -1,16 +1,22 @@
 # Task-1-Augustine-Cyriacus-Ifeanyi
 Repository for task 1
-## Key Findings
 
-- Total revenue generated was ₦1.25M
-- Total customers recorded were 1181
-- Chairs were the highest revenue-generating product category.
-- Email was the most effective referral source.
-- 309 records contained missing coupon code values.
-- Returned and cancelled orders indicate opportunities for process improvement.
+## Objective
+Clean a raw dataset by handling missing values, removing duplicates, and correcting data formats.
 
-## Recommendations
+## Tools
+Excel, GitHub
 
-- Focus marketing efforts on high-performing referral channels.
-- Improve data quality controls for coupon tracking.
-- Investigate causes of order returns and cancellations.
+## Tasks Performed
+- Identified missing values
+- Removed duplicate records
+- Standardized date and text formats
+- Validated data quality
+
+## Results
+- Improved dataset accuracy
+- Eliminated duplicate entries
+- Produced an analysis-ready dataset
+
+## Skills Demonstrated
+Data Cleaning, Data Preparation, Data Validation.
